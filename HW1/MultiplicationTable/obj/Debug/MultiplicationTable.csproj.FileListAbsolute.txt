@@ -1,0 +1,5 @@
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\MultiplicationTable\obj\Debug\MultiplicationTable.pdb

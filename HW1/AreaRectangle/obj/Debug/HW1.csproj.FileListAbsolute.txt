@@ -1,0 +1,7 @@
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe.config
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.exe
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\HW1.pdb
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.exe
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\obj\Debug\HW1.pdb
+c:\users\julio\documents\visual studio 2015\Projects\HW1\HW1\bin\Debug\AreaRectangle.exe.config

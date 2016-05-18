@@ -1,0 +1,6 @@
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Debug\AreaRectangle.exe.config
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Debug\AreaRectangle.exe
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\bin\Debug\AreaRectangle.pdb
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\AreaRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\AreaRectangle.exe
+C:\Users\Julio\Documents\Visual Studio 2015\Projects\HW1\HW1\obj\Debug\AreaRectangle.pdb
