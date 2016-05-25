@@ -39,7 +39,6 @@ namespace ProductLibrary
                     if (Inventory[i].name == product)
                     {
                         Inventory[i] = null;
-                        Console.WriteLine(product + " removed.");
                         return true;
                     }
                 }
@@ -101,18 +100,24 @@ namespace ProductLibrary
             }
         }
 
-        public int DisplayTotal()
+        public void DisplayTotal()
         {
             int total = 0;
+            int empty = 0;
             for (int i = 0; i < Inventory.Length; i++)
             {
                 if (Inventory[i] != null)
                 {
                     total += Inventory[i].quantity;
                 }
+                else
+                {
+                    empty++;
+                }
             }
 
-            return total;
+            Console.WriteLine("There are " + total + " total product units in the inventory.");
+            Console.WriteLine("There are " + empty + " empty product slots in the inventory.");
         }
 
         public void ProductList()
@@ -121,7 +126,7 @@ namespace ProductLibrary
             {
                 if (Inventory[i] != null)
                 {
-                    Console.WriteLine("#" + i + "==> " + Inventory[i].name);
+                    Console.WriteLine("#" + i + " ==> " + Inventory[i].name);
                 }
                 else
                 {
