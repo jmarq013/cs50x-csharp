@@ -1,0 +1,28 @@
+﻿@{
+        ViewData["Title"] = "Multiplication Table";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    @{ string header = ViewData["Parameter"] + "x" + ViewData["Parameter"] + " Multiplication Table"; }
+    <h2>@header</h2>
+    <table border="1" cellpadding="10">
+        @for (int i = 1; i <= (int)ViewData["Parameter"]; i++)
+            {
+            <tr>
+                @for (int j = 1; j <= (int)ViewData["Parameter"]; j++)
+                {
+                    int cell = i * j;
+                    <td align="center">@cell</td>
+                }
+            </tr>
+        }
+    </table>
+</body>
+</html>
